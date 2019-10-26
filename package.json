@@ -1,9 +1,9 @@
 {
   "name": "btc-weekday-analysis",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "create-report.js",
   "bin": {
-    "btc-weekday-analysis": "index.js"
+    "btc-weekday-analysis": "create-report.js"
   },
   "scripts": {
     "start": "node $npm_package_main",
